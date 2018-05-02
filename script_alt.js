@@ -6,7 +6,7 @@ function getWeatherInfo(){
 	console.log(theInputValue);
 
 	var weatherURL = 'http://api.openweathermap.org/data/2.5/weather?units=metric&q=';
-	var apiID = "&APPID=YOUR-APP-ID";
+	var apiID = "&APPID=faafe3bfd7fe2f3413bf1dc88110f119";
 	var searchURL = weatherURL + theInputValue + appID;
 
 	$.getJSON(searchURL,
