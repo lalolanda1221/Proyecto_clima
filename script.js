@@ -1,7 +1,7 @@
 
 //Define la direccion para la llamada a la API del clima
 var weatherBaseURL = 'http://api.openweathermap.org/data/2.5/weather?q=';
-var weatherQueryParams = '&units=imperial&APPID=9af9987d0f66079a5baa5b00f7f58162';
+var weatherQueryParams = '&units=imperial&APPID=faafe3bfd7fe2f3413bf1dc88110f119';
 
 //Crea la funcion que generara la cadena HTML
 //y despues añadirá esa cadena a la pagina
